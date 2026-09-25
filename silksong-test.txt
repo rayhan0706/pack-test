@@ -1,0 +1,10 @@
+images/native/icons/ic_search@2x.png
+images/native/icons/ic_search@3x.png
+images/native/icons/ic_settings_24px@2x.png
+images/native/icons/ic_settings_24px@3x.png
+images/native/icons/ic_close_24px@2x.png
+images/native/icons/ic_close_24px@3x.png
+images/native/icons/ic_add_24px@2x.png
+images/native/icons/ic_add_24px@3x.png
+images/native/icons/ic_more_24px@2x.png
+images/native/icons/ic_more_24px@3x.png
